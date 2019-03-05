@@ -1,0 +1,35 @@
+[
+{
+  "pk": 50047,
+  "model": "desktop.document2",
+  "fields": {
+    "search": null,
+    "uuid": "xyz",
+    "extra": "",
+    "type": "oozie-workflow2",
+    "description": "test.",
+    "is_history": false,
+    "parent_directory": [
+      "xyz",
+      1,
+      false
+    ],
+    "is_managed": false,
+    "last_modified": "2019-02-24T10:45:22.960",
+    "version": 1,
+    "owner": [
+      "xyz"
+    ],
+    "dependencies": [
+      [
+        "abc",
+        1,
+        true
+      ]
+    ],
+    "data": "",
+    "is_trashed": false,
+    "name": "Test file"
+  }
+}
+]
